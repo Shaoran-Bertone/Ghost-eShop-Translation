@@ -1,7 +1,7 @@
 {
 	"ARGUMENT_INVALID": "Argument invalid.\nPlease check the xml file for proper arguments.",
-	"ASCENDING": "Ascending",
-	"AUTHOR": "Author",
+	"ASCENDING": "Kuyanda",
+	"AUTHOR": "Umbhali",
 	"AUTO_UPDATE_ESHOP": "Auto-update eShop",
 	"AUTO_UPDATE_ESHOP_DESC": "With this, the last used eShop will be updated automatically when launching Ghost Eshop.",
 	"AUTO_UPDATE_GE": "Auto-update Ghost eShop",
