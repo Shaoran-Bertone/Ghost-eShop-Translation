@@ -84,7 +84,7 @@
 	"LANGUAGE": "言語",
 	"LAST_UPDATED": "最終更新日",
 	"LIST": "一覧",
-	"LOADING_SPRITESHEET": "Loading Spritesheet %i of %i...",
+	"LOADING_SPRITESHEET": "Spritesheet %i / %i...",
 	"MEDIATYPE_NAND": "メディア・タイプ NAND",
 	"MEDIATYPE_SD": "メディアタイプ SD",
 	"MOVE_ERROR": "移動エラー",
