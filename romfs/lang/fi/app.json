@@ -84,7 +84,7 @@
 	"LANGUAGE": "Kieli",
 	"LAST_UPDATED": "Viimeksi päivitetty",
 	"LIST": "Luettelo",
-	"LOADING_SPRITESHEET": "Loading Spritesheet %i of %i...",
+	"LOADING_SPRITESHEET": "Ladataan Spritesheet %i / %i...",
 	"MEDIATYPE_NAND": "Mediatyyppiä",
 	"MEDIATYPE_SD": "Keskiarvo SD",
 	"MOVE_ERROR": "Siirrä virhe!",
