@@ -1,5 +1,4 @@
+  
 files:
-  - source: /en/app.json
-    translation: /%two_letters_code%/app.json
-  - source: /fr/app.json
-    translation: /%two_letters_code%/app.json
+  - source: /romfs/lang/en/app.json
+    translation: /romfs/lang/%two_letters_code%/app.json
